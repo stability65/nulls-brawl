@@ -9,7 +9,8 @@
             "version": "1.0.0",
             "versionDate": "2024-11-15",
             "versionDescription": "Initial release of Null's Brawl.",
-            "localizedDescription": "Experience the thrill of Null's Brawl on a custom server with unlimited fun!",
+            "localizedDescription": "Play Null's Brawl with enhanced features and custom server support.",
+            "shortDescription": "Private server for Brawl Stars with custom gameplay features.",
             "downloadURL": "https://dnull.xyz/latest_bs_i",
             "iconURL": "https://pbs.twimg.com/profile_images/1539500061595402240/454P7mSA_400x400.jpg",
             "tintColor": "#FFFFFF"
